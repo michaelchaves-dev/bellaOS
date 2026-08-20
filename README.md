@@ -1,4 +1,4 @@
-# bellaOS
+# bellaOS — The Living Constitutional Cognitive Operating System
 
 > **A Living Constitutional Cognitive Operating System**
 >
