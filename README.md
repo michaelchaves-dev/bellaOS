@@ -145,6 +145,31 @@ Every repository is intended to strengthen the overall ecosystem while remaining
 
 ---
 
+# Security and Assurance by Subtraction
+
+bellaOS security remains modular rather than collapsing into one monolithic security layer.
+
+**BRUTO Security Protocol** (Boundary-Resilient Unified Trust Orchestrator) provides a dedicated assurance layer for:
+
+- trust-boundary inspection;
+- minimum authority and privilege review;
+- cryptographic inventory and crypto-agility;
+- post-quantum readiness;
+- dependency, secret, and attack-surface analysis;
+- module manifests and continuous assurance;
+- isolated quantum/QST security research with explicit promotion gates;
+- rollback and replaceability requirements.
+
+BRUTO complements rather than replaces existing security projects. Sentinel remains focused on reasoning/evidence integrity and failure-pattern controls; experimental QST security work remains isolated from production cryptography.
+
+The governing security principle is:
+
+> **Remove unnecessary trust before adding more control.**
+
+Canonical repository: [bruto_security_protocol](https://github.com/michaelchaves-dev/bruto_security_protocol)
+
+---
+
 # Living Constitution
 
 The bellaOS repository serves as the constitutional foundation of the project.
