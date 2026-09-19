@@ -1,5 +1,6 @@
 # bellaOS Library — Project Repositories
 
+- [bruto_security_protocol](https://github.com/michaelchaves-dev/bruto_security_protocol) — BRUTO (Boundary-Resilient Unified Trust Orchestrator): modular security assurance, trust-boundary inspection, crypto-agility, post-quantum readiness, privilege minimization, and security-by-subtraction.
 This file indexes repositories that are part of the bellaOS living system. Each linked repository contributes code, methodology, research, or documentation that helps form the bellaOS ecosystem.
 
 If you'd like a different organization (categories, tags, or automated sync), tell me and I can change this into a generated index or a dashboard.
