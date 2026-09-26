@@ -245,3 +245,15 @@ It is designed to continue learning.
 
 
 *Founding draft — Constitutional Draft v0.1*
+
+---
+
+## Related / Pending absorption (draft 1% slices)
+
+Living-knowledge index of open draft PRs awaiting owner review. Reuses CLAIM #41 / INV-0 / AGENTS-0 primes. **MESSAGE ≠ COMMAND** — listing here is speech, not merge authority. Do not merge without owner accept.
+
+- [PR #1 — LIB-0 Library freshness](https://github.com/michaelchaves-dev/bellaOS/pull/1) (`1pct/2026-09-26-lib0-library-freshness`)
+- [PR #2 — INV-0 INVARIANTS stub](https://github.com/michaelchaves-dev/bellaOS/pull/2) (`1pct/2026-09-26-inv0-invariants-stub`)
+- [PR #3 — AGENTS-0 AGENTS stub](https://github.com/michaelchaves-dev/bellaOS/pull/3) (`1pct/2026-09-26-agents0-agents-stub`)
+- Skills bodies: pointer-only on [`skills`](https://github.com/michaelchaves-dev/bellaOS/tree/skills) @ `51dad57` — do not copy `SKILL.md` bodies onto `main`
+- Lane: [CLAIM #41](https://github.com/michaelchaves-dev/bellaOS-Commons/issues/41)
